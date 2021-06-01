@@ -11,8 +11,7 @@
 	<img src="https://github.com/ppc-ntu-khpi/34-gui-lab2-coldbeatz/blob/master/Screenshot_1.png">
 </details>
 
-✓ **[4]** Інформація про клієнтів банку та їх рахунках читається з файлу <a href="https://github.com/ppc-ntu-khpi/34-gui-lab2-coldbeatz/blob/master/test.dat">test.dat</a>.<br>
-Додано слухачі подій до кнопок "Show" і "About".
+✓ **[4]** Інформація про клієнтів банку та їх рахунках читається з файлу <a href="https://github.com/ppc-ntu-khpi/34-gui-lab2-coldbeatz/blob/master/test.dat">test.dat</a>.<br> Додано слухачі подій до кнопок <b>"Show"</b> і <b>"About"</b>.
 <details>
   <summary>Результат</summary>
 	<img src="https://github.com/ppc-ntu-khpi/34-gui-lab2-coldbeatz/blob/master/Screenshot_2.png">
