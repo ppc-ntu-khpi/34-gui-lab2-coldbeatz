@@ -144,7 +144,7 @@ public class BankGUI extends JFrame {
         //System.getProperties().list(System.out);
 		StringBuilder sb = new StringBuilder();
 		
-		sb.append("Bank — Ãğèöåíêî Âëàä\n\n")
+		sb.append("Bank â€” ÃƒÃ°Ã¨Ã¶Ã¥Ã­ÃªÃ® Ã‚Ã«Ã Ã¤\n\n")
 		.append("System info: \n")
 		.append("Current Java version is: ").append(System.getProperty("java.version"))
 		.append("\nOS: ").append(System.getProperty("os.name"))
@@ -163,7 +163,7 @@ public class BankGUI extends JFrame {
     	.append("<br>--------------------------<br>")
     	.append("Accounts:<br>");
     	for (int i = 0; i < customer.getNumberOfAccounts(); i++) {
-    		Account account = customer.getAccount(0);
+    		Account account = customer.getAccount(i);
     		
     		sb.append("#").append(i)
     		.append(" - ")
