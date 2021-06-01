@@ -5,7 +5,7 @@
 # РЕЗУЛЬТАТ
 **Виконано завдання на 3, 4 та 5 балів:**
 
-✓ **[3]** ...
+✓ **[3]** Створено вікно, ідентичне до прототипу, додано бібліотеку банку.
 <details>
   <summary>Результат</summary>
 	<img src="https://github.com/ppc-ntu-khpi/34-gui-lab2-coldbeatz/blob/master/Screenshot_1.png">
