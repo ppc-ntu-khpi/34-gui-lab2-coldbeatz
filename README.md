@@ -2,7 +2,7 @@
 ![](terminal-icon.png)
 ![](gui-icon.png)
 
-** Замість matisse було використано WindowBuilder
+## Замість matisse було використано WindowBuilder
 
 # РЕЗУЛЬТАТ
 **Виконано завдання на 3, 4 та 5 балів:**
