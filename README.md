@@ -19,7 +19,7 @@
   <img src="https://github.com/ppc-ntu-khpi/34-gui-lab2-coldbeatz/blob/master/Screenshot_5.png">
 </details>
 
-✓ **[5]** ...
+✓ **[5]** Report
 <details>
   <summary>Результат</summary>
 	<img src="https://github.com/ppc-ntu-khpi/34-gui-lab2-coldbeatz/blob/master/Screenshot_4.png">
